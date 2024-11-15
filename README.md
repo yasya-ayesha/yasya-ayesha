@@ -3,7 +3,7 @@
 My name is Yasya. 
 
 - :notebook: My main stack is: HTML, CSS, JS, Vue, Nuxt, Node, TS, Nest. 
-- 🌱 I had some experience with Java and Python.
+- 🌱 I had some experience with Java and Python, studying Erlang now.
 - :office: I'm currently working as Full-stack Vue/Node Developer.
 
 Connect me at LinkedIn: [:envelope:](https://www.linkedin.com/in/yasya-kalyta/)
